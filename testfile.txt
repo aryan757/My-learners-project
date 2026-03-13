@@ -1,1 +1,3 @@
 hello all ! welcome to the exiciting lecture of Github . lets start learning.
+
+lets learn AI and implement some new project and add it into the new branch.
