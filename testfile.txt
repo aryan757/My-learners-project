@@ -1,3 +1,11 @@
 hello all ! welcome to the exiciting lecture of Github . lets start learning.
 This is the changes done by me!
 Hello , hows going ??
+
+
+git init
+git add . ( adding your current code into the staginbg area)
+git commit -m "your version message"
+git push -u branch_name ( main / or some other branch )
+git branch
+git checkout -b other_branch_name  ( automatically swith into the other branch , where you can add some changes to your code )
